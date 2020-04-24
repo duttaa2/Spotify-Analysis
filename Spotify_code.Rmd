@@ -1,6 +1,6 @@
 ---
 title: "Spotify Analysis"
-author: "Souradip Goswami 19210273"
+author: "Souradip Goswami, Parnab Das and Aritra Dutta"
 date: "30/03/2020"
 output: pdf_document
 ---
